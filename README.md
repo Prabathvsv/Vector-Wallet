@@ -93,4 +93,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-*Built with ❤️ for the Ethereum Community by Prabath and Anurag.*
+*Built with ❤️ for the Ethereum Community by Prabath and Anurag *
